@@ -6176,6 +6176,55 @@
 			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/OnePlus%206%205.jpg",
 			"dimensions": "1080 x 1920",
 			"category":"device"
+		},{
+			"name": "Amoled Alien Face",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2061.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2061.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Amoled Light Face",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2062.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2062.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Amoled Neon Bird",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2063.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2063.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Amoled Neon Jelly fish",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2064.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2064.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Amoled Car BMW",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%206%205.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2065.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Amoled Neon Drops",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2066.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2066.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Others Forest and Face",
+			"author": "Benny Valente",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2095.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%2095.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
 		}
 	
 	]
