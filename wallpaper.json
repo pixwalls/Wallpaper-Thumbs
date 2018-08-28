@@ -6719,6 +6719,41 @@
 			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Galaxy%20Note%209%2010.jpg",
 			"dimensions": "1080 x 1920",
 			"category":"device"
+		},{
+			"name": "Amoled Venom",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2068.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2068.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "People Dark Hacker",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2034.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/People/People%2034.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"people"
+		},{
+			"name": "Superhero Dare Devil",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2044.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2044.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Superhero Iron Man",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2045.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2045.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Unsaturated Dark Bamboo",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2038.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2038.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
 		}
 	
 	]
