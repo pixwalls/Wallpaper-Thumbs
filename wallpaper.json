@@ -6929,6 +6929,41 @@
 			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2047.jpg",
 			"dimensions": "1080 x 1920",
 			"category":"superhero"
+		},{
+			"name": "Amoled Astroboy",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2074.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2074.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Others The Omen",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20101.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2074.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Sports Football Messi",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Sports/Football%2037.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Sports/Football%2037.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"sports"
+		},{
+			"name": "Sports Football Ronaldo",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Sports/Football%2038.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Sports/Football%2038.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"sports"
+		},{
+			"name": "Unsaturated Leaves",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2039.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2039.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
 		}
 	
 	]
