@@ -45,6 +45,48 @@
     ],
 	"Wallpapers": [
 		{
+			"name": "Automobiles Train",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2033.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Automobiles/Automobiles%2033.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"automobiles"
+		},{
+			"name": "Cityscape Glass Buildings",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2033.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2033.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},{
+			"name": "Nature Wooden Bridge",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20133.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20133.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},{
+			"name": "Nature Oranges",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20134.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20134.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},{
+			"name": "Others Basketball Court",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20102.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20102.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Others Blue Room",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20103.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20103.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
 			"name": "Automobiles Porsche",
 			"author": "Rutwik Patel",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%201.jpg",
@@ -6964,48 +7006,6 @@
 			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2039.jpg",
 			"dimensions": "1080 x 1920",
 			"category":"unsaturated"
-		},{
-			"name": "Automobiles Train",
-			"author": "JFL",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2033.png",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Automobiles/Automobiles%2033.jpg",
-			"dimensions": "1080 x 1920",
-			"category":"automobiles"
-		},{
-			"name": "Cityscape Glass Buildings",
-			"author": "JFL",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2033.png",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2033.jpg",
-			"dimensions": "1080 x 1920",
-			"category":"cityscape"
-		},{
-			"name": "Nature Wooden Bridge",
-			"author": "JFL",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20133.png",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20133.jpg",
-			"dimensions": "1080 x 1920",
-			"category":"nature"
-		},{
-			"name": "Nature Oranges",
-			"author": "JFL",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20134.jpeg",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20134.jpg",
-			"dimensions": "1080 x 1920",
-			"category":"nature"
-		},{
-			"name": "Others Basketball Court",
-			"author": "JFL",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20102.png",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20102.jpg",
-			"dimensions": "1080 x 1920",
-			"category":"others"
-		},{
-			"name": "Others Blue Room",
-			"author": "JFL",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20103.png",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20103.jpg",
-			"dimensions": "1080 x 1920",
-			"category":"others"
 		}
 	
 	]
