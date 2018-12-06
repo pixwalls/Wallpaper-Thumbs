@@ -45,6 +45,48 @@
     ],
 	"Wallpapers": [
 		{
+			"name": "Sports Football Cristiano Ronaldo",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Sports/Football%2039.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Sports/Football%2039.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"sports"
+		},{
+			"name": "Sports Football Messi",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Sports/Football%2040.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Sports/Football%2040.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"sports"
+		},{
+			"name": "Superhero Superman",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2048.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2048.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Superhero Punisher",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2049.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2049.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Superhero Spiderman",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2050.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2050.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Superhero Ironman",
+			"author": "Maykon Gomez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2051.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2051.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
 			"name": "Automobiles Train",
 			"author": "JFL",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2033.png",
