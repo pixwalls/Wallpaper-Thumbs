@@ -45,6 +45,41 @@
     ],
 	"Wallpapers": [
 		{
+			"name": "Others Blue Fire",
+			"author": "Tha Wall Junkie",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20104.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20104.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Others Space Guy",
+			"author": "Tha Wall Junkie",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20105.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20105.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Others Road to Mountains",
+			"author": "Tha Wall Junkie",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20106.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20106.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Automobiles Lambhorgini Veneno",
+			"author": "Tha Wall Junkie",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2034.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Automobiles/Automobiles%2034.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"automobiles"
+		},{
+			"name": "Sports Football CR7",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Sports/Football%2041.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Sports/Football%2039.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"sports"
+		},{
 			"name": "Sports Football Cristiano Ronaldo",
 			"author": "Osum Walls",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Sports/Football%2039.jpg",
