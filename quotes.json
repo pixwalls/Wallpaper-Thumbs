@@ -1,12 +1,15 @@
-{
+[
+            
+            {
             "quote": "The Problem is not the Problem. The attitude is the problem"
-}
-{
+            },
+            {
             "quote": "Description will be displayed in Details Activity"
-}
-{
+            },
+            {
             "quote": "Lol jk jk jk jk jk jk jk jk jk jk jk jk jk jk jk"
-}
-{
+            },
+            {
             "quote": "its simply a file contains an array of JSON Objects and our object structor is like the following we are hosting our Json File on Github you can check this link for full file content"
-}
+            }
+]            
