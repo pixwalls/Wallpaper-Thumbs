@@ -4,7 +4,9 @@
                 "name": "Anime"
             },
 	    {
-                "name": "Amoled"
+                "name": "Amoled",
+		"preview_url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%207.png",
+      		"preview_thumbnail_url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%207.png"
             },
 	    {
                 "name": "Automobiles"
