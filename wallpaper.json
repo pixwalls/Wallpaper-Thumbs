@@ -46,14 +46,55 @@
 	"Wallpapers": [
 		{
 			"name": "WALL OF THE WEEK",
-			"author": "Pintrest",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2056.webp",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2056.webp",
+			"author": "Mads Schmidt",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20115.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20115.jpg",
 			"dimensions": "1080 x 1920",
-			"category":"superhero",
+			"category":"minimalistic",
 			"featured": true
-		},
-		{
+		},{
+			"name": "Amoled Thanos Violet",
+			"author": "Zach Lecher",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2078.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2078.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Amoled Thanos Infinity Gauntlet",
+			"author": "Zach Lecher",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2079.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2079.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"amoled"
+		},{
+			"name": "Superhero Thors Hammer Mjolnir",
+			"author": "Zach Lecher",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2059.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2059.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Superhero Thanos Red Endgame",
+			"author": "Zach Lecher",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2061.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2061.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Superhero Thanos Infinty War",
+			"author": "Max Well",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%2060.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Superhero/Superhero%2060.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},{
+			"name": "Minimalistic White Trees",
+			"author": "Mads Schmidt",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20115.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20115.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},{
 			"name": "Pattern Polygonal 1",
 			"author": "Sreerag AG",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2065.png",
