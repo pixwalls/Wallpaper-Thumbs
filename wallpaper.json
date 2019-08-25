@@ -46,12 +46,47 @@
 	"Wallpapers": [
 		{
 			"name": "WALL OF THE WEEK",
-			"author": "Nick Nice",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2049.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2049.jpg",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20136.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20136.jpg",
 			"dimensions": "1080 x 1920",
-			"category":"minimalistic",
+			"category":"nature"
 			"featured": true
+		},{
+			"name": "Nature Dark Leaf",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20141.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20141.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},{
+			"name": "Others Dark Lights",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20119.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20119.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Others Starry Sky",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20120.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20120.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Others Red Thunder Sky",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20121.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20121.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},{
+			"name": "Nature Water Drop",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20140.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20140.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
 		},{
 			"name": "Device Galaxy Note 10 1",
 			"author": "Samsung",
