@@ -56,7 +56,45 @@
 			"category":"illustration",
 			"featured": true
 		},
-				{
+		{
+			"name": "Nature Mountain and Beach",
+			"author": "Reddit",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20143.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20143.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Dark Green Leaves
+			"author": "Rodion Kutsaev",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20144.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20144.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},{
+			"name": "Nature Dark Blue Beach",
+			"author": "Reddit",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20145.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20145.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},{
+			"name": "Others Pink Night",
+			"author": "Reddit",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20124.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20124.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"others"
+		},
+		{
+			"name": "Others Graphical Scenery",
+			"author": "Reddit",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20125.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20125.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"others"
+		},
+		{
 			"name": "Illustration Ipod",
 			"author": "Vijay and Sreerag AG",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Illustration/Illustration%201.png",
