@@ -57,6 +57,46 @@
 			"featured": true
 		},
 		{
+			"name": "Cityscape Wooden Structure",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2034.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2034.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"cityscape"
+		},
+		{
+			"name": "Cityscape Orange Building",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2035.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2035.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"cityscape"
+		},
+		{
+			"name": "Nature Mountain Side",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20146.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20146.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},
+		{
+			"name": "Others Chirstmas Decorations",
+			"author": "Malavika",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20126.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20126.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"others"
+		},
+		{
+			"name": "Unsaturated Black Sand Dunes",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2048.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2048.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"unsaturated"
+		},
+		{
 			"name": "Nature Mountain and Beach",
 			"author": "Reddit",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20143.jpeg",
