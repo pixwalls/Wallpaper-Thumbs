@@ -57,6 +57,38 @@
 			"featured": true
 		},
 		{
+			"name": "Amoled Night Road",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2080.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2080.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"amoled"
+		},
+		{
+			"name": "Nature In the Woods",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20147.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20147.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},
+		{
+			"name": "Nature River and night Sky",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20148.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20148.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},
+		{
+			"name": "Others Red Chinese New Year",
+			"author": "Tesla",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20127.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20127.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"others"
+		},
+		{
 			"name": "Device Samsung Galaxy S20 1",
 			"author": "Samsung",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Galaxy%20S20%201.png",
