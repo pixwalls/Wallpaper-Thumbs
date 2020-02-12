@@ -57,6 +57,22 @@
 			"featured": true
 		},
 		{
+			"name": "Samsung Galaxy Z Flip 1",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Galaxy%20Z%20Flip%201.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Galaxy%20Z%20Flip%201.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"device"
+		},
+		{
+			"name": "Samsung Galaxy Z Flip 2",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Galaxy%20Z%20Flip%202.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Galaxy%20Z%20Flip%202.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"device"
+		},
+		{
 			"name": "Amoled Night Road",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2081.jpg",
