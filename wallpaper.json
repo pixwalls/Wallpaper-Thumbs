@@ -57,6 +57,38 @@
 			"featured": true
 		},
 		{
+			"name": "Automobiles Red Porche",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2037.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Automobiles/Automobiles%2037.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"automobiles"
+		},
+		{
+			"name": "Cityscape Blue Foggy City",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2036.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2036.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"cityscape"
+		},
+		{
+			"name": "Nature Sunset Pier",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20149.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20149.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Blue Mountain",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20150.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20150.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"nature"
+		},
+		{
 			"name": "Illustration Coding",
 			"author": "Vijay and Sreerag AG",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Illustration/Illustration%20110.png",
