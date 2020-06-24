@@ -55,6 +55,62 @@
 			"dimensions": "1080 x 1920",
 			"category":"cityscape",
 			"featured": true
+		}, {
+			"name": "Pattern Wave 1",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2076.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2076.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 2",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2077.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2077.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 3",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2078.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2078.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 4",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2079.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2079.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 5",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2080.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2080.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 6",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2081.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2081.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 7",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2082.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2082.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
+		}, {
+			"name": "Pattern Wave 8",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2083.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2083.jpg",
+			"dimensions": "1420 x 2880",
+			"category":"pattern"
 		},{
 			"name": "Device Sony Xperia 1",
 			"author": "Sony",
