@@ -1,5 +1,33 @@
 [
-	         {
+	          {
+			"name": "Pattern Turing Light 1",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2084.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2084.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"pattern"
+		},{
+			"name": "Pattern Turing Dark 2",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2085.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2085.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"pattern"
+		},{
+			"name": "Pattern Turing Light 3",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2086.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2086.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"pattern"
+		},{
+			"name": "Pattern Turing Dark 4",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2087.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Pattern/Pattern%2087.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"pattern"
+		}, {
 			"name": "Pattern Wave 1",
 			"author": "Sreerag AG",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2076.png",
