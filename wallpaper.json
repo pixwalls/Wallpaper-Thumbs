@@ -55,7 +55,56 @@
 			"dimensions": "1080 x 1920",
 			"category":"cityscape",
 			"featured": true
-		},  {
+		}, {
+			"name": "Amoled Pride 1",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%201.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%201.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
+			"name": "Amoled Pride 2",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%202.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%202.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
+			"name": "Amoled Pride 3",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%203.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%203.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
+			"name": "Amoled Pride 4",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%204.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%204.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
+			"name": "Amoled Pride 5",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%205.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%205.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
+			"name": "Amoled Pride 6",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%206.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%206.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
+			"name": "Amoled Pride 7",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Pride%207.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Pride%207.jpg",
+			"dimensions": "1081 x 2289",
+			"category":"amoled"
+		}, {
 			"name": "Oneplus Nord 1",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Oneplus%20Nord%201.jpg",
