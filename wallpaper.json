@@ -55,7 +55,38 @@
 			"dimensions": "1080 x 1920",
 			"category":"cityscape",
 			"featured": true
-		},  {
+		}, {
+			"name": "Nature Plane in the Forest",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20155.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20155.jpg",
+			"dimensions": "2828 x 5656",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Pink Desert",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20156.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20156.jpg",
+			"dimensions": "2828 x 5656",
+			"category":"nature"
+		},
+		{
+			"name": "Cityscape Roof and Sky",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2037.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2037.jpg",
+			"dimensions": "2828 x 5656",
+			"category":"cityscape"
+		},
+		{
+			"name": "Others Dark Road",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20128.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20128.jpg",
+			"dimensions": "2828 x 5656",
+			"category":"others"
+		}, {
 			"name": "Amoled Pride 1",
 			"author": "Michal",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2082.jpg",
