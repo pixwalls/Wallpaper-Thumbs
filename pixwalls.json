@@ -1,5 +1,33 @@
 [
 	          {
+			"name": "Nature Red White Shore",
+			"author": "Matheo Jbt",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20158.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20158.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},  {
+			"name": "Wildlife Goldfish Dark",
+			"author": "Max Ducourneau",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%2025.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Wildlife/Wildlife%2025.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"wildlife"
+		},  {
+			"name": "Nature Sunset",
+			"author": "YXAn",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20158.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20159.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},  {
+			"name": "Wildlife Jellyfish Dark",
+			"author": "Joshua Harris",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%2024.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Wildlife/Wildlife%2024.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"wildlife"
+		}, {
 			"name": "Amoled Red Flow",
 			"author": "Alex Perez",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2089.jpg",
