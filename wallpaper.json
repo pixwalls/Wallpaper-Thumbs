@@ -55,7 +55,35 @@
 			"dimensions": "1440 x 2880",
 			"category":"pattern",
 			"featured": true
-		},     {
+		}, {
+			"name": "Cityscape Blue White Building",
+			"author": "Simone Hutsch",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2039.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2039.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"cityscape"
+		},{
+			"name": "Nature Colorful Mountains",
+			"author": "Simon Berger",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20164.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20164.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},{
+			"name": "Unsaturated Dark Train Tracks",
+			"author": "Andre Benz",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2051.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2051.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"unsaturated"
+		},{
+			"name": "Unsaturated Dark Train and Tracks",
+			"author": "Andre Benz",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2052.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Unsaturated/Unsaturated%2052.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"unsaturated"
+		},    {
 			"name": "Minimalistic Gradient Red Blue",
 			"author": "Sreerag AG",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20128.png",
