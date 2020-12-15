@@ -1,5 +1,33 @@
 [
-	        {
+	       {
+			"name": "Minimalistic Dark Gradient Blue",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20143.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20143.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"minimalistic"
+		}, {
+			"name": "Minimalistic Dark Gradient Green",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20144.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20144.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"minimalistic"
+		}, {
+			"name": "Minimalistic Dark Gradient Red",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20145.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20145.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"minimalistic"
+		}, {
+			"name": "Minimalistic Dark Gradient Purple",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20146.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20146.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"minimalistic"
+		}, {
 			"name": "Nature Evening Mountains",
 			"author": "Marek Piwnicki",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20169.jpg",
