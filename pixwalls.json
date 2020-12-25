@@ -1,5 +1,19 @@
 [
-	       {
+	        {
+			"name": "Illustration Brown Christmas Tree",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Illustration/Illustration%20120.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Illustration/Illustration%20120.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"illustration"
+		},{
+			"name": "Illustration Green Christmas Tree",
+			"author": "Sreerag AG",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Illustration/Illustration%20121.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Illustration/Illustration%20121.jpg",
+			"dimensions": "1440 x 2880",
+			"category":"illustration"
+		}, {
 			"name": "Minimalistic Dark Gradient Blue",
 			"author": "Sreerag AG",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20143.png",
