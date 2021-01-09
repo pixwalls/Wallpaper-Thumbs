@@ -1,5 +1,33 @@
 [
-	        {
+	         {
+			"name": "Cityscape Building and Sky",
+			"author": "Patrick Burtcha",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2040.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Cityscape/Cityscape%2040.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"cityscape"
+		},{
+			"name": "Nature Brown Beach",
+			"author": "Jonathan Borba",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20171.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20171.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},{
+			"name": "Others Black Brick Wall",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20133.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20133.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"others"
+		},{
+			"name": "Others Grey Green Texture",
+			"author": "Bharath GS",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20133.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20133.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"others"
+		},{
 			"name": "Illustration Brown Christmas Tree",
 			"author": "Sreerag AG",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Illustration/Illustration%20120.png",
