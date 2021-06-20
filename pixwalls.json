@@ -1,5 +1,19 @@
 [
-	        {
+	         {
+			"name": "Pattern Non Binary 1",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2088.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%2088.png",
+			"dimensions": "1440 x 2560",
+			"category":"pattern"
+		},{
+			"name": "Amoled Non Binary 2",
+			"author": "Michal",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2090.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2090.png",
+			"dimensions": "1440 x 2560",
+			"category":"amoled"
+		},{
 			"name": "Anime 78",
 			"author": "Max028",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Anime/Anime%2078.png",
