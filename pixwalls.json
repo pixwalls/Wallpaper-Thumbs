@@ -1,5 +1,89 @@
 [
-	        {
+	         {
+			"name": "Google Pixel A Wandering Musician",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20AWanderingMusician.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20AWanderingMusician.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Cherry Cone",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20CherryCone.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20CherryCone.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Cloud Surfer",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20CloudSurfer.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20CloudSurfer.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Deep Sea",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20DeepSea.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20Deep Sea.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Flash",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20Flash.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20Flash.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Fruits",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20Fruits.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20Fruits.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Karaoke",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20Karaoke.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20Karaoke.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Match Point",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20MatchPoint.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20MatchPoint.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Pattern Playlist",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20PatternPlaylist.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20PatternPlaylist.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Street Art",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20StreetArt.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20StreetArt.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		}, {
+			"name": "Google Pixel Thirst Quencher",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20ThirstQuencher.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20ThirstQuencher.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		},{
+			"name": "Google Pixel Watermelon Falls",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Google%20Pixel%206%20WatermelonFalls.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Google%20Pixel%206%20WatermelonFalls.jpg",
+			"dimensions": "1440 x 3120",
+			"category":"device"
+		},{
 			"name": "Minimalistic Design 12",
 			"author": "Abhishek AG",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20163.png",
