@@ -1,5 +1,33 @@
 [
-	          {
+	         {
+			"name": "Minimalistic Design 16",
+			"author": "Abhishek AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20167.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20167.png",
+			"dimensions": "1440 x 2560",
+			"category":"minimalistic"
+		},{
+			"name": "Minimalistic Design 15",
+			"author": "Abhishek AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20166.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20166.png",
+			"dimensions": "1440 x 2560",
+			"category":"minimalistic"
+		},{
+			"name": "Minimalistic Design 14",
+			"author": "Abhishek AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20165.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20165.png",
+			"dimensions": "1440 x 2560",
+			"category":"minimalistic"
+		},{
+			"name": "Minimalistic Design 17",
+			"author": "Abhishek AG",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20164.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20164.png",
+			"dimensions": "1440 x 2560",
+			"category":"minimalistic"
+		}, {
 			"name": "Nature Blue Sea",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20173.jpg",
@@ -112,7 +140,7 @@
 			"dimensions": "1440 x 3120",
 			"category":"device"
 		},{
-			"name": "Minimalistic Design 12",
+			"name": "Minimalistic Design 13",
 			"author": "Abhishek AG",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%20163.png",
 			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Minimalistic/Minimalistic%20163.png",
