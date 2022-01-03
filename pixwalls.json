@@ -1,5 +1,40 @@
 [
-	         {
+	          {
+			"name": "3D Render 1",
+			"author": "Maxim Berg",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/3D%20Renders/Render%201.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/3D%20Render/Render%201.png",
+			"dimensions": "1440 x 2560",
+			"category":"3d render"
+		},{
+			"name": "3D Render 2",
+			"author": "Ally Griffin",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/3D%20Renders/Render%202.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/3D%20Render/Render%202.png",
+			"dimensions": "1440 x 2560",
+			"category":"3d render"
+		},{
+			"name": "3D Render 3",
+			"author": "Shubham Dhage",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/3D%20Renders/Render%203.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/3D%20Render/Render%203.png",
+			"dimensions": "1440 x 2560",
+			"category":"3d render"
+		},{
+			"name": "3D Render 4",
+			"author": "Shubham Dhage",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/3D%20Renders/Render%204.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/3D%20Render/Render%204.png",
+			"dimensions": "1440 x 2560",
+			"category":"3d render"
+		},{
+			"name": "3D Render 5",
+			"author": "Andrew Kilatskyi",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/3D%20Renders/Render%205.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/3D%20Render/Render%205.png",
+			"dimensions": "1440 x 2560",
+			"category":"3d render"
+		},{
 			"name": "Others Christmas 1",
 			"author": "Aedrian",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20138.jpg",
