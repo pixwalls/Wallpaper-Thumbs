@@ -1,5 +1,40 @@
 [
 	         {
+			"name": "Xiaomi 12S 1",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Xiaomi%2012S%20Pro%20Wallpaper%201%20YTECHB.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Xiaomi%2012S%20Pro%20Wallpaper%201%20YTECHB.jpg",
+			"dimensions": "1440 x 3200",
+			"category":"device"
+		},{
+			"name": "Xiaomi 12S 2",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Xiaomi%2012S%20Pro%20Wallpaper%202%20YTECHB.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Xiaomi%2012S%20Pro%20Wallpaper%202%20YTECHB.jpg",
+			"dimensions": "1440 x 3200",
+			"category":"device"
+		},{
+			"name": "Xiaomi 12S 3",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Xiaomi%2012S%20Pro%20Wallpaper%203%20YTECHB.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Xiaomi%2012S%20Pro%20Wallpaper%203%20YTECHB.jpg",
+			"dimensions": "1440 x 3200",
+			"category":"device"
+		},{
+			"name": "Xiaomi 12S 4",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Xiaomi%2012S%20Pro%20Wallpaper%204%20YTECHB.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Xiaomi%2012S%20Pro%20Wallpaper%204%20YTECHB.jpg",
+			"dimensions": "1440 x 3200",
+			"category":"device"
+		},{
+			"name": "Xiaomi 12S Ultra",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/Xiaomi%2012S%20Ultra%20Wallpaper%20YTECHB.png",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Device/Xiaomi%2012S%20Ultra%20Wallpaper%20YTECHB.jpg",
+			"dimensions": "1440 x 3200",
+			"category":"device"
+		},{
 			"name": "Amoled Pride 8",
 			"author": "Michal",
 			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2091.png",
