@@ -2,8 +2,10 @@ name: Auto Shuffle JSON
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Every 1 minute
-  workflow_dispatch:       # Manual trigger
+    - cron: '0 0 * * 0'  # Sunday
+    - cron: '0 0 * * 3'  # Wednesday
+    - cron: '0 0 * * 6'  # Saturday
+  workflow_dispatch:
 
 jobs:
   shuffle:
