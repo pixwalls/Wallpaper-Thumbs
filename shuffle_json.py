@@ -1,30 +1,16 @@
-name: Auto Shuffle JSON
+import json
+import random
 
-on:
-  schedule:
-    - cron: '*/1 * * * *'  # Every 1 minute
-  workflow_dispatch:       # Manual trigger
+file_path = "pixwalls - fixed.json"
 
-jobs:
-  shuffle:
-    runs-on: ubuntu-latest
+# Read JSON file
+with open(file_path, 'r', encoding='utf-8') as f:
+    data = json.load(f)
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+# Check if it's a list
+if isinstance(data, list):
+    random.shuffle(data)
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Run Shuffle Script
-        run: python shuffle_json.py
-
-      - name: Commit and Push Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "pixwalls - fixed.json"
-          git commit -m "Auto-shuffled JSON" || echo "No changes to commit"
-          git push
+# Write back the shuffled data
+with open(file_path, 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
