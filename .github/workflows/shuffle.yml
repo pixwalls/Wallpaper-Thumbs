@@ -1,10 +1,10 @@
-name: Auto Shuffle JSON
+name: Auto Shuffle JSON (Fixed)
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Sunday
-    - cron: '0 0 * * 3'  # Wednesday
-    - cron: '0 0 * * 6'  # Saturday
+    - cron: '0 0 * * 0'  # Every Sunday
+    - cron: '0 0 * * 3'  # Every Wednesday
+    - cron: '0 0 * * 6'  # Every Saturday
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -20,14 +20,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run Shuffle Script
+      - name: Run shuffle script
         run: python shuffle_json.py
 
-      - name: Commit and Push Changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "pixwalls - fixed.json"
-          git commit -m "Auto-shuffled JSON" || echo "No changes to commit"
+          git add "pixwalls_shuffle.json"
+          git diff --cached --quiet || git commit -m "Auto-shuffled pixwalls_shuffle.json"
           git push
-
